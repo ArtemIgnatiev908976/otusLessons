@@ -1,0 +1,5 @@
+# Created at 2022-08-23T14:03:43.004
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Otus\Otus\otus24\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

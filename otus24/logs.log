@@ -1,0 +1,79 @@
+
+2022-08-12 01:48:06,887 INFO Logger [main] Драйвер поднят
+2022-08-12 01:48:10,326 INFO Logger [main] [advcake_track_id=b58efa37-70d7-9701-daa8-651f2ab7e1a3; expires=вс, 11 сент. 2022 01:48:08 SAMT; path=/; domain=.otus.ru, oid=dadd78803e2037781657bc04d1512431; expires=сб, 16 сент. 2023 01:48:10 SAMT; path=/; domain=.otus.ru, sessionid=lcce7bjqqv49vg9c2jln7ys7w9g4haz8; expires=чт, 10 нояб. 2022 01:48:07 SAMT; path=/; domain=otus.ru, _ym_d=1660254489; expires=сб, 12 авг. 2023 01:48:08 SAMT; path=/; domain=.otus.ru;secure;, _tt_enable_cookie=1; expires=ср, 06 сент. 2023 01:48:09 SAMT; path=/; domain=.otus.ru, _ym_visorc=w; expires=пт, 12 авг. 2022 02:18:10 SAMT; path=/; domain=.otus.ru;secure;, _gid=GA1.2.438155514.1660254489; expires=сб, 13 авг. 2022 01:48:08 SAMT; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=сб, 16 сент. 2023 01:48:10 SAMT; path=/; domain=.otus.ru, _ym_uid=1660254489107869368; expires=сб, 12 авг. 2023 01:48:08 SAMT; path=/; domain=.otus.ru;secure;, _gat=1; expires=пт, 12 авг. 2022 01:49:08 SAMT; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 12 авг. 2022 09:48:08 SAMT; path=/; domain=.otus.ru;secure;, _ga=GA1.2.588324799.1660254489; expires=сб, 16 сент. 2023 01:48:08 SAMT; path=/; domain=.otus.ru, _ttp=15ed0d44-8038-42a7-8007-f9d175c22e50; expires=ср, 06 сент. 2023 01:48:09 SAMT; path=/; domain=.otus.ru, advcake_session_id=2f7353f4-4b67-8135-79a4-cd4c787f2175; expires=вс, 11 сент. 2022 01:48:08 SAMT; path=/; domain=.otus.ru]
+2022-08-20 22:13:44,421 INFO Logger [main] Драйвер поднят
+2022-08-20 22:19:07,946 INFO Logger [main] Драйвер поднят
+2022-08-20 22:19:46,435 INFO Logger [main] Драйвер поднят
+2022-08-20 22:20:56,432 INFO Logger [main] Драйвер поднят
+2022-08-20 22:21:33,725 INFO Logger [main] Драйвер поднят
+2022-08-20 22:22:25,330 INFO Logger [main] Драйвер поднят
+2022-08-20 22:24:56,131 INFO Logger [main] Драйвер поднят
+2022-08-22 18:21:01,126 INFO Logger [main] Драйвер поднят
+2022-08-22 18:21:10,831 INFO Logger [main] кейс 1 пройден
+2022-08-22 18:21:31,852 INFO Logger [main] Драйвер поднят
+2022-08-22 18:21:34,173 INFO Logger [main] кейс 2 пройден
+2022-08-22 18:21:52,330 INFO Logger [main] Драйвер поднят
+2022-08-22 18:22:31,541 INFO Logger [main] Драйвер поднят
+2022-08-22 18:22:39,600 INFO Logger [main] кейс 3 пройден
+2022-08-22 18:22:39,601 INFO Logger [main] [sessionid=s8alvoicagg5i58ypjm3e7nqd9exorpm; expires=вс, 20 нояб. 2022 06:22:33 SAMT; path=/; domain=otus.ru]
+2022-08-22 18:23:07,074 INFO Logger [main] Драйвер поднят
+2022-08-22 18:23:11,971 INFO Logger [main] кейс 3 пройден
+2022-08-22 18:23:11,971 INFO Logger [main] [advcake_track_id=5c25fca2-a598-5ce2-e1c6-c4a83b0e9c0f; expires=ср, 21 сент. 2022 06:23:09 SAMT; path=/; domain=.otus.ru, oid=a24aeb7691eb77027dfb5ae6bbc1e06d; expires=вт, 26 сент. 2023 06:23:11 SAMT; path=/; domain=.otus.ru, sessionid=cu1ybbutpjw9j4kjc8nditq6y3xzxwxu; expires=вс, 20 нояб. 2022 06:23:08 SAMT; path=/; domain=otus.ru, _ym_d=1661178189; expires=вт, 22 авг. 2023 06:23:09 SAMT; path=/; domain=.otus.ru;secure;, _tt_enable_cookie=1; expires=сб, 16 сент. 2023 06:23:10 SAMT; path=/; domain=.otus.ru, _ym_visorc=w; expires=пн, 22 авг. 2022 06:53:11 SAMT; path=/; domain=.otus.ru;secure;, _gid=GA1.2.1917209516.1661178189; expires=вт, 23 авг. 2022 06:23:09 SAMT; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вт, 26 сент. 2023 06:23:11 SAMT; path=/; domain=.otus.ru, _ym_uid=1661178189465295701; expires=вт, 22 авг. 2023 06:23:09 SAMT; path=/; domain=.otus.ru;secure;, _gat=1; expires=пн, 22 авг. 2022 06:24:09 SAMT; path=/; domain=.otus.ru, _ym_isad=2; expires=вт, 23 авг. 2022 02:23:09 SAMT; path=/; domain=.otus.ru;secure;, _ga=GA1.2.1806058106.1661178189; expires=вт, 26 сент. 2023 06:23:09 SAMT; path=/; domain=.otus.ru, _ttp=62049e51-117c-48fb-9bdd-0d52122bb3e8; expires=сб, 16 сент. 2023 06:23:10 SAMT; path=/; domain=.otus.ru, advcake_session_id=5d2359b3-aa41-7c81-c8ec-7ed684c94488; expires=ср, 21 сент. 2022 06:23:09 SAMT; path=/; domain=.otus.ru]
+2022-08-22 18:23:33,804 INFO Logger [main] Драйвер поднят
+2022-08-22 18:23:41,679 INFO Logger [main] кейс 3 пройден
+2022-08-22 18:23:41,679 INFO Logger [main] [advcake_track_id=80d58f90-5632-5331-0311-fa1485e186b0; expires=ср, 21 сент. 2022 06:23:40 SAMT; path=/; domain=.otus.ru, oid=1f4f09b863a5269c9a57dbd3e8147a50; expires=вт, 26 сент. 2023 06:23:40 SAMT; path=/; domain=.otus.ru, _ym_d=1661178218; expires=вт, 22 авг. 2023 06:23:38 SAMT; path=/; domain=.otus.ru;secure;, sessionid=07i57mvf47nhpd1kwrdoj687f632xaco; expires=вс, 20 нояб. 2022 06:23:37 SAMT; path=/; domain=otus.ru, _tt_enable_cookie=1; expires=сб, 16 сент. 2023 06:23:40 SAMT; path=/; domain=.otus.ru, _ym_visorc=w; expires=пн, 22 авг. 2022 06:53:40 SAMT; path=/; domain=.otus.ru;secure;, _gid=GA1.2.1563547483.1661178220; expires=вт, 23 авг. 2022 06:23:40 SAMT; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вт, 26 сент. 2023 06:23:40 SAMT; path=/; domain=.otus.ru, _ym_uid=1661178218373694780; expires=вт, 22 авг. 2023 06:23:38 SAMT; path=/; domain=.otus.ru;secure;, _gat=1; expires=пн, 22 авг. 2022 06:24:40 SAMT; path=/; domain=.otus.ru, _ym_isad=2; expires=вт, 23 авг. 2022 02:23:40 SAMT; path=/; domain=.otus.ru;secure;, _ga=GA1.2.503393752.1661178220; expires=вт, 26 сент. 2023 06:23:40 SAMT; path=/; domain=.otus.ru, _ttp=e8d5baa2-df4a-45b6-b28f-0b87a295b6ed; expires=сб, 16 сент. 2023 06:23:40 SAMT; path=/; domain=.otus.ru, advcake_session_id=984fb80f-efe6-67b1-112e-1eee644d7abe; expires=ср, 21 сент. 2022 06:23:40 SAMT; path=/; domain=.otus.ru]
+2022-08-22 18:23:43,201 INFO Logger [main] Драйвер поднят
+2022-08-22 18:23:50,574 INFO Logger [main] кейс 1 пройден
+2022-08-22 18:23:52,172 INFO Logger [main] Драйвер поднят
+2022-08-22 18:23:53,801 INFO Logger [main] кейс 2 пройден
+2022-08-22 18:43:03,466 INFO Logger [main] Драйвер поднят
+2022-08-22 18:43:11,281 INFO Logger [main] Кейс 3 пройден
+2022-08-22 18:43:11,281 INFO Logger [main] [advcake_track_id=21189868-9a8b-c4d1-2c17-42be7d6f204a; expires=ср, 21 сент. 2022 06:43:05 SAMT; path=/; domain=.otus.ru, oid=5e51e179c9bbba5b5c71be11d68631f6; expires=вт, 26 сент. 2023 06:43:10 SAMT; path=/; domain=.otus.ru, sessionid=r6ynq072cpvlfok1ew0jvi89ovnnxwty; expires=вс, 20 нояб. 2022 06:43:04 SAMT; path=/; domain=otus.ru, _ym_d=1661179385; expires=вт, 22 авг. 2023 06:43:05 SAMT; path=/; domain=.otus.ru;secure;, _tt_enable_cookie=1; expires=сб, 16 сент. 2023 06:43:05 SAMT; path=/; domain=.otus.ru, _ym_visorc=w; expires=пн, 22 авг. 2022 07:13:08 SAMT; path=/; domain=.otus.ru;secure;, _gid=GA1.2.343417562.1661179385; expires=вт, 23 авг. 2022 06:43:05 SAMT; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вт, 26 сент. 2023 06:43:10 SAMT; path=/; domain=.otus.ru, _ym_uid=1661179385572857188; expires=вт, 22 авг. 2023 06:43:05 SAMT; path=/; domain=.otus.ru;secure;, _gat=1; expires=пн, 22 авг. 2022 06:44:05 SAMT; path=/; domain=.otus.ru, _ym_isad=2; expires=вт, 23 авг. 2022 02:43:05 SAMT; path=/; domain=.otus.ru;secure;, _ga=GA1.2.1445795207.1661179385; expires=вт, 26 сент. 2023 06:43:05 SAMT; path=/; domain=.otus.ru, _ttp=b06505b1-1f1f-4873-8cbf-f04cc22730c2; expires=сб, 16 сент. 2023 06:43:05 SAMT; path=/; domain=.otus.ru, advcake_session_id=4cbbe5c3-80b5-99c3-026e-e2ce0c12c820; expires=ср, 21 сент. 2022 06:43:05 SAMT; path=/; domain=.otus.ru]
+2022-08-22 18:43:11,949 INFO Logger [main] Выход
+2022-08-22 18:43:13,127 INFO Logger [main] Драйвер поднят
+2022-08-22 18:43:19,737 INFO Logger [main] Кейс 1 пройден
+2022-08-22 18:43:20,769 INFO Logger [main] Выход
+2022-08-22 18:43:22,125 INFO Logger [main] Драйвер поднят
+2022-08-22 18:43:24,071 INFO Logger [main] Кейс 2 пройден
+2022-08-22 18:43:24,280 INFO Logger [main] Выход
+2022-08-22 18:43:52,887 INFO Logger [main] Драйвер поднят
+2022-08-22 18:43:57,809 INFO Logger [main] Выход
+2022-08-22 18:43:59,309 INFO Logger [main] Драйвер поднят
+2022-08-22 18:44:05,627 INFO Logger [main] Кейс 1 пройден
+2022-08-22 18:44:06,083 INFO Logger [main] Выход
+2022-08-22 18:44:07,364 INFO Logger [main] Драйвер поднят
+2022-08-22 18:44:11,888 INFO Logger [main] Кейс 2 пройден
+2022-08-22 18:44:12,189 INFO Logger [main] Выход
+2022-08-22 18:44:35,564 INFO Logger [main] Драйвер поднят
+2022-08-22 18:44:41,443 INFO Logger [main] Кейс 3 пройден
+2022-08-22 18:44:41,443 INFO Logger [main] [advcake_track_id=5d30cf60-a05c-a0f9-a8f3-51bbc3e39b1a; expires=ср, 21 сент. 2022 06:44:39 SAMT; path=/; domain=.otus.ru, oid=a7221a6a86e487d25c16d91e42ca516f; expires=вт, 26 сент. 2023 06:44:40 SAMT; path=/; domain=.otus.ru, _ym_d=1661179477; expires=вт, 22 авг. 2023 06:44:36 SAMT; path=/; domain=.otus.ru;secure;, sessionid=3k6zlbszgf2owsa9qgwkq5m4qsq43pd5; expires=вс, 20 нояб. 2022 06:44:36 SAMT; path=/; domain=otus.ru, _tt_enable_cookie=1; expires=сб, 16 сент. 2023 06:44:39 SAMT; path=/; domain=.otus.ru, _ym_visorc=w; expires=пн, 22 авг. 2022 07:14:39 SAMT; path=/; domain=.otus.ru;secure;, _gid=GA1.2.1577409766.1661179479; expires=вт, 23 авг. 2022 06:44:39 SAMT; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вт, 26 сент. 2023 06:44:40 SAMT; path=/; domain=.otus.ru, _ym_uid=1661179477745079286; expires=вт, 22 авг. 2023 06:44:36 SAMT; path=/; domain=.otus.ru;secure;, _gat=1; expires=пн, 22 авг. 2022 06:45:39 SAMT; path=/; domain=.otus.ru, _ym_isad=2; expires=вт, 23 авг. 2022 02:44:39 SAMT; path=/; domain=.otus.ru;secure;, _ga=GA1.2.409963057.1661179479; expires=вт, 26 сент. 2023 06:44:39 SAMT; path=/; domain=.otus.ru, _ttp=ccdf1c21-efea-470f-b69c-3d8d32269d14; expires=сб, 16 сент. 2023 06:44:39 SAMT; path=/; domain=.otus.ru, advcake_session_id=851fdb00-da08-d30a-e3a0-1daa1b58ce18; expires=ср, 21 сент. 2022 06:44:39 SAMT; path=/; domain=.otus.ru]
+2022-08-22 18:44:42,020 INFO Logger [main] Выход
+2022-08-22 18:44:43,300 INFO Logger [main] Драйвер поднят
+2022-08-22 18:44:48,676 INFO Logger [main] Кейс 1 пройден
+2022-08-22 18:44:49,122 INFO Logger [main] Выход
+2022-08-22 18:44:50,349 INFO Logger [main] Драйвер поднят
+2022-08-22 18:44:51,519 INFO Logger [main] Кейс 2 пройден
+2022-08-22 18:44:52,074 INFO Logger [main] Выход
+2022-08-22 19:06:56,125 INFO Logger [main] Драйвер поднят
+2022-08-22 19:28:06,587 INFO Logger [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2022-08-22 19:28:12,225 INFO Logger [main] РљРµР№СЃ 3 РїСЂРѕР№РґРµРЅ
+2022-08-22 19:28:12,225 INFO Logger [main] [advcake_track_id=2b624ec5-866e-0729-b598-a996afeeafca; expires=ср, 21 сент. 2022 07:28:08 SAMT; path=/; domain=.otus.ru, oid=feacd8b5124ddbf64e6d4e9c7bd744c4; expires=вт, 26 сент. 2023 07:28:11 SAMT; path=/; domain=.otus.ru, sessionid=zp5se3gejwcvjfhmx7kktje0sek844f6; expires=вс, 20 нояб. 2022 07:28:07 SAMT; path=/; domain=otus.ru, _ym_d=1661182088; expires=вт, 22 авг. 2023 07:28:08 SAMT; path=/; domain=.otus.ru;secure;, _tt_enable_cookie=1; expires=сб, 16 сент. 2023 07:28:10 SAMT; path=/; domain=.otus.ru, _ym_visorc=w; expires=пн, 22 авг. 2022 07:58:10 SAMT; path=/; domain=.otus.ru;secure;, _gid=GA1.2.286694649.1661182088; expires=вт, 23 авг. 2022 07:28:08 SAMT; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вт, 26 сент. 2023 07:28:11 SAMT; path=/; domain=.otus.ru, _ym_uid=1661182088942354203; expires=вт, 22 авг. 2023 07:28:08 SAMT; path=/; domain=.otus.ru;secure;, _gat=1; expires=пн, 22 авг. 2022 07:29:08 SAMT; path=/; domain=.otus.ru, _ym_isad=2; expires=вт, 23 авг. 2022 03:28:10 SAMT; path=/; domain=.otus.ru;secure;, _ga=GA1.2.12139083.1661182088; expires=вт, 26 сент. 2023 07:28:08 SAMT; path=/; domain=.otus.ru, _ttp=57d114ae-ccc0-414d-aba1-866b095b7cce; expires=сб, 16 сент. 2023 07:28:10 SAMT; path=/; domain=.otus.ru, advcake_session_id=97ef420c-1be0-df20-2d3e-216a4a1a8df4; expires=ср, 21 сент. 2022 07:28:08 SAMT; path=/; domain=.otus.ru]
+2022-08-22 19:28:12,592 INFO Logger [main] Р’С‹С…РѕРґ
+2022-08-22 19:28:14,201 INFO Logger [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2022-08-22 19:28:21,686 INFO Logger [main] Р’С‹С…РѕРґ
+2022-08-22 19:28:23,073 INFO Logger [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2022-08-22 19:28:24,466 INFO Logger [main] РљРµР№СЃ 2 РїСЂРѕР№РґРµРЅ
+2022-08-22 19:28:24,735 INFO Logger [main] Р’С‹С…РѕРґ
+2022-08-22 19:31:05,588 INFO Logger [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2022-08-22 19:31:12,017 INFO Logger [main] РљРµР№СЃ 3 РїСЂРѕР№РґРµРЅ
+2022-08-22 19:31:12,017 INFO Logger [main] [advcake_track_id=d1e2b4cf-46de-7af3-58f9-144650c876aa; expires=ср, 21 сент. 2022 07:31:09 SAMT; path=/; domain=.otus.ru, oid=9450c67c15348f783ac28cdd189a3aeb; expires=вт, 26 сент. 2023 07:31:10 SAMT; path=/; domain=.otus.ru, _ym_d=1661182267; expires=вт, 22 авг. 2023 07:31:06 SAMT; path=/; domain=.otus.ru;secure;, sessionid=awlv27r8h583at2zs4cl7eo7y15o39wu; expires=вс, 20 нояб. 2022 07:31:06 SAMT; path=/; domain=otus.ru, _tt_enable_cookie=1; expires=сб, 16 сент. 2023 07:31:10 SAMT; path=/; domain=.otus.ru, _ym_visorc=w; expires=пн, 22 авг. 2022 08:01:10 SAMT; path=/; domain=.otus.ru;secure;, _gid=GA1.2.1965498240.1661182268; expires=вт, 23 авг. 2022 07:31:07 SAMT; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вт, 26 сент. 2023 07:31:10 SAMT; path=/; domain=.otus.ru, _ym_uid=1661182267600845718; expires=вт, 22 авг. 2023 07:31:06 SAMT; path=/; domain=.otus.ru;secure;, _gat=1; expires=пн, 22 авг. 2022 07:32:07 SAMT; path=/; domain=.otus.ru, _ym_isad=2; expires=вт, 23 авг. 2022 03:31:09 SAMT; path=/; domain=.otus.ru;secure;, _ga=GA1.2.1848590198.1661182268; expires=вт, 26 сент. 2023 07:31:07 SAMT; path=/; domain=.otus.ru, _ttp=7a2aa829-1903-4b12-8dee-67acb8cb949d; expires=сб, 16 сент. 2023 07:31:10 SAMT; path=/; domain=.otus.ru, advcake_session_id=eb60a1a2-574e-d5bf-e8fc-db76bd5bfbb8; expires=ср, 21 сент. 2022 07:31:09 SAMT; path=/; domain=.otus.ru]
+2022-08-22 19:31:12,490 INFO Logger [main] Р’С‹С…РѕРґ
+2022-08-22 19:31:14,896 INFO Logger [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2022-08-22 19:31:21,526 INFO Logger [main] Р’С‹С…РѕРґ
+2022-08-22 19:31:23,729 INFO Logger [main] Р”СЂР°Р№РІРµСЂ РїРѕРґРЅСЏС‚
+2022-08-22 19:31:24,894 INFO Logger [main] РљРµР№СЃ 2 РїСЂРѕР№РґРµРЅ
+2022-08-22 19:31:25,058 INFO Logger [main] Р’С‹С…РѕРґ
+2022-08-23 13:54:42,376 INFO Logger [main] Драйвер поднят
+2022-08-23 14:03:49,039 INFO Logger [main] Драйвер поднят
+2022-08-23 14:16:08,829 INFO OtusTestDZ6 [main] Драйвер поднят
+2022-08-23 14:16:14,435 INFO OtusTestDZ6 [main] Драйвер поднят
